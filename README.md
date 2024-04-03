@@ -1,2 +1,2 @@
 # Mongodb---Changestream
-MongoDB chnagestream for real time notification
+MongoDB changestream for real time notification
